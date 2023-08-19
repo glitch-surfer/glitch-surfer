@@ -20,6 +20,10 @@ My name is Vlad and i`am junior FrontEnd developer
 ***
 
 - ⚡ In my repos you can fine some funny games
+  - [Minesweeper](https://glitch-surfer.github.io/minesweeper/)
+  - [Witcher-Css-Selectors](https://glitch-surfer.github.io/Witcher-CSS-selectors/deploy/)
+  - [Async-PonyRace](https://glitch-surfer.github.io/async-PonyRace/deploy/) (need to start local server from repo)
+  - and other examples of code & layout
 - my [CodeWars](https://www.codewars.com/users/rsschool_86709714c2211142)
 
 Funny parrots🦜 for my guests:
